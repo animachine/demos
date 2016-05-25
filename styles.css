@@ -1,0 +1,15 @@
+.playground {
+  display: flex;
+  width: 100%;
+}
+.playgroundCode, .playgroundPreview {
+  flex: 1;
+}
+
+body {
+  overflow: hidden;
+}
+
+/*.playgroundPreview {
+  position: relative;
+}*/
